@@ -1,5 +1,12 @@
 <h1>Web Crawler desenvolvido por Wilson Soares</h1>
 
+<h2>Requisitos</h2>
+
+<ul>
+  <li>Nodejs</li>
+  <li>NPM</li>
+</ul>
+
 <h2>Instalação</h2>
 
 <ul>
