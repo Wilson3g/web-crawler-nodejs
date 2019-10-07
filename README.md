@@ -3,6 +3,7 @@
 <h2>Instalação</h2>
 
 <ul>
+  <li>npm init</li>
   <li>npm install cheerio</li>
   <li>npm install request</li>
 </ul>
